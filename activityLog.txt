@@ -1,0 +1,4 @@
+Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506616272339
+Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506616316997
+Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506616401279
+Cloze Constructor - Partial: Narendra Modi was a Chiwala in his previous job. - Text: Narendra Modi was a Chiwala in his previous job. - Cloze: Chiwala - Date: 1506616706856Cloze Constructor - Partial: Narendra Modi was a --- in his previous job. - Text: Narendra Modi was a Chaiwala in his previous job. - Cloze: Chaiwala - Date: 1506616847379Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506796784834
