@@ -1,4 +1,14 @@
-Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506616272339
-Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506616316997
-Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506616401279
-Cloze Constructor - Partial: Narendra Modi was a Chiwala in his previous job. - Text: Narendra Modi was a Chiwala in his previous job. - Cloze: Chiwala - Date: 1506616706856Cloze Constructor - Partial: Narendra Modi was a --- in his previous job. - Text: Narendra Modi was a Chaiwala in his previous job. - Cloze: Chaiwala - Date: 1506616847379Front: How many miles from Earth to Moon? - Back: 238,000 Miles - Date: 1506796784834
+Basic Card Display --- Question: Whos is your daddy --- Answer: Wan Valdez --- Date: 1506905964006
+Basic Card Display --- Question: How many months are there in a year --- Answer: 12 months --- Date: 1506905968514
+Basic Card Display --- Question: What is the circumference of the earth --- Answer: 24901 miles --- Date: 1506905973016
+Cloze Card Display --- Question: The moon affects the Earth's --- --- Cloze: ocean tides --- Date: 1506905984633
+Cloze Card Display --- Question: A --- is belived to be at the center of all known galaxies --- Cloze: Super Massive Black Hole --- Date: 1506905993644
+Cloze Card Display --- Question: --- is the weakest of the four fudimental forces by a long shot --- Cloze: Gravity --- Date: 1506905989141
+Cloze Card Display --- Question: The --- is a massive sphere of objects surronding our solar system --- Cloze: ort cloud --- Date: 1506905998147
+Basic Card Display --- Question: Whos is your daddy --- Answer: Wan Valdez --- Date: 1506906061008
+Basic Card Display --- Question: How many months are there in a year --- Answer: 12 months --- Date: 1506906067516
+Basic Card Display --- Question: What is the circumference of the earth --- Answer: 24901 miles --- Date: 1506906074018
+Cloze Card Display --- Question: The moon affects the Earth's --- --- Cloze: ocean tides --- Date: 1506906087330
+Cloze Card Display --- Question: --- is the weakest of the four fudimental forces by a long shot --- Cloze: Gravity --- Date: 1506906093840
+Cloze Card Display --- Question: The --- is a massive sphere of objects surronding our solar system --- Cloze: ort cloud --- Date: 1506906106846
+Cloze Card Display --- Question: A --- is belived to be at the center of all known galaxies --- Cloze: Super Massive Black Hole --- Date: 1506906100343
